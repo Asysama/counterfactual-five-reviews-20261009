@@ -1,0 +1,335 @@
+{
+  "generator_name": "spring_launch_stored_energy_excess",
+  "head_sha": "4d6e942f5223bc12265c4729c5f08aa09d98a3cf",
+  "pr_url": "https://github.com/hipo-dev/counterfactual-data/pull/623",
+  "files": {
+    "accepted.jsonl": {
+      "bytes": 316,
+      "sha256": "b3dd435949b6be960781b69e1be6d78d21d9640d4c1c8718ad26387860802e3d"
+    },
+    "expected-case-ids.json": {
+      "bytes": 101,
+      "sha256": "270c7e211e83d24ab0cc62c09ba28418aaa683aabc7a21aac34baa8e9053b74d"
+    },
+    "production-header.json": {
+      "bytes": 2131,
+      "sha256": "a103153c6c406ecd76f965e73b93e0386756a1ffe99efe2fd354d5139bba7997"
+    },
+    "review.html": {
+      "bytes": 10963,
+      "sha256": "fd274103063560f1c919d82d4981fd59a2d858877e779b78f46617e142942c9b"
+    },
+    "runtime-witness-index.json": {
+      "bytes": 1185,
+      "sha256": "d143da2eb2d8838a9897ddb85e5f34b63aab5d7047550e7f26c093d840280a65"
+    },
+    "runtime-witness.json": {
+      "bytes": 16767,
+      "sha256": "6a2b0bbaa21d426b8d57705af1e845aec8f1ec9a6be3553663e6b8f1e178866b"
+    },
+    "spring_launch_stored_energy_excess_00000042/browser-derivatives.json": {
+      "bytes": 676,
+      "sha256": "e3b828cd619fe3cfd4ade104f536202a1417d2859b9546fb3004ae1625a26649"
+    },
+    "spring_launch_stored_energy_excess_00000042/counterfactual-000.png": {
+      "bytes": 122002,
+      "sha256": "b8b2d14131f78eb1ab1f4366f0b6d387054dc345f73809aa902ad61888b99da4"
+    },
+    "spring_launch_stored_energy_excess_00000042/counterfactual-038.png": {
+      "bytes": 144701,
+      "sha256": "a735bee9ab9e0e4bfa3a69c767fcbfccd0a0d70d3a969cba13197ade90f32804"
+    },
+    "spring_launch_stored_energy_excess_00000042/counterfactual-040.png": {
+      "bytes": 146202,
+      "sha256": "55a6a65e2c0f42f4e93edc56ca0870fc2c8a0232e868069f09631a8327574d8b"
+    },
+    "spring_launch_stored_energy_excess_00000042/counterfactual-090.png": {
+      "bytes": 145349,
+      "sha256": "86a6ef9945fc08d887cb3bd1247a3ea7c38c17ce23f5d093ebc3729639bc5881"
+    },
+    "spring_launch_stored_energy_excess_00000042/counterfactual-119.png": {
+      "bytes": 145007,
+      "sha256": "46cdd875eab9f28c7afa565b5d1af2846a40ad101445e0423d9c70433509a4ad"
+    },
+    "spring_launch_stored_energy_excess_00000042/counterfactual_separation_velocity_energy_injection/mask.mp4": {
+      "bytes": 1940314,
+      "sha256": "478a1e515b1065d4d018decad9bb4a882fde29dc594d11f8625c3aceca23ecc4"
+    },
+    "spring_launch_stored_energy_excess_00000042/counterfactual_separation_velocity_energy_injection/mask_browser.mp4": {
+      "bytes": 43909,
+      "sha256": "32ce53066d9686f2bb8c149ae80cbc8016657bd02e686361bd4f816b66cc85d9"
+    },
+    "spring_launch_stored_energy_excess_00000042/counterfactual_separation_velocity_energy_injection/mask_overlay.mp4": {
+      "bytes": 17077198,
+      "sha256": "f4d18122406af3a3cdf84029492b1a3287b9cd2a50525a26818b361ab9254ea9"
+    },
+    "spring_launch_stored_energy_excess_00000042/counterfactual_separation_velocity_energy_injection/mask_overlay_browser.mp4": {
+      "bytes": 1355460,
+      "sha256": "1396d14a8e709a9160a820b2896115b4acdf2086083a5c82cbed81938bcd0dde"
+    },
+    "spring_launch_stored_energy_excess_00000042/counterfactual_separation_velocity_energy_injection/prompt.txt": {
+      "bytes": 433,
+      "sha256": "652a421457b740f9ee212c36675cd1a5aa809315440984d61c2560ef32fff58e"
+    },
+    "spring_launch_stored_energy_excess_00000042/counterfactual_separation_velocity_energy_injection/trajectory.npz": {
+      "bytes": 2197,
+      "sha256": "89288e3acdc9b09cdc1ac8f389d7004a352d47fab4a71c01148682fb148224ed"
+    },
+    "spring_launch_stored_energy_excess_00000042/counterfactual_separation_velocity_energy_injection/video.mp4": {
+      "bytes": 17206813,
+      "sha256": "3a360cc81b632b2b047bcd7a6576f828b4bfb812f5d320c12b3b411cfc11c893"
+    },
+    "spring_launch_stored_energy_excess_00000042/counterfactual_separation_velocity_energy_injection/video_browser.mp4": {
+      "bytes": 1352359,
+      "sha256": "0fa2daafc17bde7ffbf7daf21f318c40318bbea54213bfe09a0831312749ef4d"
+    },
+    "spring_launch_stored_energy_excess_00000042/decoded-audit.json": {
+      "bytes": 982,
+      "sha256": "46bd81b1ab1dfa2901d1e514091ab1a93a8cfd09b2ee31f817d6456b19a17c54"
+    },
+    "spring_launch_stored_energy_excess_00000042/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "b236e36aff93891267abcaa3ee420bd95d7c1f34a2fd87c1a98de560efe141d1"
+    },
+    "spring_launch_stored_energy_excess_00000042/manifest.json": {
+      "bytes": 5238,
+      "sha256": "58d731f80b648a0142b1af03957ca8a1dac514f3d2c85f662983ea891c6ad04d"
+    },
+    "spring_launch_stored_energy_excess_00000042/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "spring_launch_stored_energy_excess_00000042/mask-038.png": {
+      "bytes": 13055,
+      "sha256": "e657320c71bd390396a47d27f404b0c82b051780bfaa2cb122af1bddad70697e"
+    },
+    "spring_launch_stored_energy_excess_00000042/mask-040.png": {
+      "bytes": 13075,
+      "sha256": "1579db856d29acbeb9642a4c04f2973bcc598d5aa14c87edc86bae9ce0f595a9"
+    },
+    "spring_launch_stored_energy_excess_00000042/mask-090.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "spring_launch_stored_energy_excess_00000042/mask-119.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "spring_launch_stored_energy_excess_00000042/metadata.json": {
+      "bytes": 5685,
+      "sha256": "bdd86d462fd514f720d55e7a67f5dca5426faa3beefb6f20cb3dee90bb309600"
+    },
+    "spring_launch_stored_energy_excess_00000042/overlay-000.png": {
+      "bytes": 122002,
+      "sha256": "b8b2d14131f78eb1ab1f4366f0b6d387054dc345f73809aa902ad61888b99da4"
+    },
+    "spring_launch_stored_energy_excess_00000042/overlay-038.png": {
+      "bytes": 136518,
+      "sha256": "d5d0a7dcd6f56c0f28332978ee60474d57e045bd4ace92d1695e735f9dff25fd"
+    },
+    "spring_launch_stored_energy_excess_00000042/overlay-040.png": {
+      "bytes": 138305,
+      "sha256": "370aa0d3cc4e282d2b515da17632dbe54ddad90b1c971fd4ddce41bb1afe8cf4"
+    },
+    "spring_launch_stored_energy_excess_00000042/overlay-090.png": {
+      "bytes": 145349,
+      "sha256": "86a6ef9945fc08d887cb3bd1247a3ea7c38c17ce23f5d093ebc3729639bc5881"
+    },
+    "spring_launch_stored_energy_excess_00000042/overlay-119.png": {
+      "bytes": 145007,
+      "sha256": "46cdd875eab9f28c7afa565b5d1af2846a40ad101445e0423d9c70433509a4ad"
+    },
+    "spring_launch_stored_energy_excess_00000042/renderer-runtime.json": {
+      "bytes": 985,
+      "sha256": "954809bdde9f0a92a6fa9865dc9e02e09d62aea994f1c2d80b3d108971ed3912"
+    },
+    "spring_launch_stored_energy_excess_00000042/true/prompt.txt": {
+      "bytes": 370,
+      "sha256": "bee307728bdded01d1bd0794b335e062866053c3f1021990c8d4e836cd3b2ae6"
+    },
+    "spring_launch_stored_energy_excess_00000042/true/trajectory.npz": {
+      "bytes": 2096,
+      "sha256": "fc110d90b3f2582de5b64c47ac06a5c7102714fb8dc085ae31b6f6d2c4f256c0"
+    },
+    "spring_launch_stored_energy_excess_00000042/true/video.mp4": {
+      "bytes": 17180611,
+      "sha256": "35414e1fc39419c822d4836e80888f45c56e4ab4e096ffb51fbff6e84f36bfd5"
+    },
+    "spring_launch_stored_energy_excess_00000042/true/video_browser.mp4": {
+      "bytes": 1351217,
+      "sha256": "5259a616801f2f97b440ab919e342c05595f7a814070d7f8f19201c46d443b9d"
+    },
+    "spring_launch_stored_energy_excess_00000042/true-000.png": {
+      "bytes": 122002,
+      "sha256": "b8b2d14131f78eb1ab1f4366f0b6d387054dc345f73809aa902ad61888b99da4"
+    },
+    "spring_launch_stored_energy_excess_00000042/true-038.png": {
+      "bytes": 144833,
+      "sha256": "2c0b9efe01844f1ec7a71637486d1316ad9ff71ff405d6b956c2897206d600c3"
+    },
+    "spring_launch_stored_energy_excess_00000042/true-040.png": {
+      "bytes": 144469,
+      "sha256": "eb62adc7a13615e2074fa58569f644363e04007a1d06387327c75211f7954da9"
+    },
+    "spring_launch_stored_energy_excess_00000042/true-090.png": {
+      "bytes": 145349,
+      "sha256": "86a6ef9945fc08d887cb3bd1247a3ea7c38c17ce23f5d093ebc3729639bc5881"
+    },
+    "spring_launch_stored_energy_excess_00000042/true-119.png": {
+      "bytes": 145007,
+      "sha256": "46cdd875eab9f28c7afa565b5d1af2846a40ad101445e0423d9c70433509a4ad"
+    },
+    "spring_launch_stored_energy_excess_00000098/browser-derivatives.json": {
+      "bytes": 676,
+      "sha256": "b4137087f6ab63ed0d6b6895796f946d32f0f11b9dfe0b265940adc356d8d6f1"
+    },
+    "spring_launch_stored_energy_excess_00000098/counterfactual-000.png": {
+      "bytes": 128967,
+      "sha256": "494b9ef7b01b98c0ce8dc4705e5a78c0956c60a82f361df95b22f7aed9109386"
+    },
+    "spring_launch_stored_energy_excess_00000098/counterfactual-040.png": {
+      "bytes": 154041,
+      "sha256": "bb2df2218bfefc87907378fd2cdf8fca15018769a0bd73608b4367bb0fe3631b"
+    },
+    "spring_launch_stored_energy_excess_00000098/counterfactual-043.png": {
+      "bytes": 156321,
+      "sha256": "0f355774996013d670670ff48cec0ea6e0173eba4d3b4b0d58fde2b1af49d313"
+    },
+    "spring_launch_stored_energy_excess_00000098/counterfactual-090.png": {
+      "bytes": 153173,
+      "sha256": "303ba199af499dc2c6a3a1b9d6c4cf1ecaa359a399ee2c98303abd7457716ad4"
+    },
+    "spring_launch_stored_energy_excess_00000098/counterfactual-119.png": {
+      "bytes": 152642,
+      "sha256": "dc682237d68c55dd7a8f903ada37d51e83719b706719ad6445948fed613eea73"
+    },
+    "spring_launch_stored_energy_excess_00000098/counterfactual_separation_velocity_energy_injection/mask.mp4": {
+      "bytes": 1961622,
+      "sha256": "aea7f2c20b24a1f46bf29891e635bbe88e3252a1529acd7548151b87acd4133e"
+    },
+    "spring_launch_stored_energy_excess_00000098/counterfactual_separation_velocity_energy_injection/mask_browser.mp4": {
+      "bytes": 49893,
+      "sha256": "0ac62b3f9405682787f8a449f72a03b3e2e8adba134d41079a1fd6fbde9b98a9"
+    },
+    "spring_launch_stored_energy_excess_00000098/counterfactual_separation_velocity_energy_injection/mask_overlay.mp4": {
+      "bytes": 18652238,
+      "sha256": "eefbce9a867171c254122f81b11c562ffa2bd3f7d272a8910478706ff2b3814f"
+    },
+    "spring_launch_stored_energy_excess_00000098/counterfactual_separation_velocity_energy_injection/mask_overlay_browser.mp4": {
+      "bytes": 1434752,
+      "sha256": "8dde41c8eb7c40215f12a5fd471fc25f68d9024b1f2086bfbcd0a3e6c30b301c"
+    },
+    "spring_launch_stored_energy_excess_00000098/counterfactual_separation_velocity_energy_injection/prompt.txt": {
+      "bytes": 433,
+      "sha256": "652a421457b740f9ee212c36675cd1a5aa809315440984d61c2560ef32fff58e"
+    },
+    "spring_launch_stored_energy_excess_00000098/counterfactual_separation_velocity_energy_injection/trajectory.npz": {
+      "bytes": 2289,
+      "sha256": "93d8a73f20892987b831148323214c4311b7dcb08030a5d2a976ae466deae832"
+    },
+    "spring_launch_stored_energy_excess_00000098/counterfactual_separation_velocity_energy_injection/video.mp4": {
+      "bytes": 18865455,
+      "sha256": "a17e2c463f9f8af02ad20dd35799043b0c90a64f176b726eea1d182d03916a64"
+    },
+    "spring_launch_stored_energy_excess_00000098/counterfactual_separation_velocity_energy_injection/video_browser.mp4": {
+      "bytes": 1432342,
+      "sha256": "2f3544a8ae02cebf2761718be77b0cd40e35a9731780c2abd2fc07a74f345175"
+    },
+    "spring_launch_stored_energy_excess_00000098/decoded-audit.json": {
+      "bytes": 982,
+      "sha256": "963d62a1bba0dea699105661c49218ca471542f89f277d16b3741faced5ffdfd"
+    },
+    "spring_launch_stored_energy_excess_00000098/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "7adde881ffd9a2299563fe8694a6c3a9b35c607ce177ba1176a3610beff485a7"
+    },
+    "spring_launch_stored_energy_excess_00000098/manifest.json": {
+      "bytes": 5238,
+      "sha256": "977fb97bb51230b8fa38ace27d60c216a92b44bc748c7741d0cbb45c127e4315"
+    },
+    "spring_launch_stored_energy_excess_00000098/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "spring_launch_stored_energy_excess_00000098/mask-040.png": {
+      "bytes": 13062,
+      "sha256": "46e2d33ec61523cf21b22230c4ed7ba8b61f15904b3808bc2eb19196a6103742"
+    },
+    "spring_launch_stored_energy_excess_00000098/mask-043.png": {
+      "bytes": 13090,
+      "sha256": "ef46c71b5dee2f5a3157844887fa15e39a683d257379bde8344be50a9dc93911"
+    },
+    "spring_launch_stored_energy_excess_00000098/mask-090.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "spring_launch_stored_energy_excess_00000098/mask-119.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "spring_launch_stored_energy_excess_00000098/metadata.json": {
+      "bytes": 5672,
+      "sha256": "4e60ead8bcde966a2ea0a5395cf38247342ee84cda32cc6976e5afcdb22a98e2"
+    },
+    "spring_launch_stored_energy_excess_00000098/overlay-000.png": {
+      "bytes": 128967,
+      "sha256": "494b9ef7b01b98c0ce8dc4705e5a78c0956c60a82f361df95b22f7aed9109386"
+    },
+    "spring_launch_stored_energy_excess_00000098/overlay-040.png": {
+      "bytes": 145697,
+      "sha256": "9bd292f0ca806adc8c939928487590013c4e10cd4b5565ab9bd844e1fc35123e"
+    },
+    "spring_launch_stored_energy_excess_00000098/overlay-043.png": {
+      "bytes": 146740,
+      "sha256": "bdb3dc622a975917392294a8816a6055bd8a09391b6bbbf08ae59e16dbac9dae"
+    },
+    "spring_launch_stored_energy_excess_00000098/overlay-090.png": {
+      "bytes": 153173,
+      "sha256": "303ba199af499dc2c6a3a1b9d6c4cf1ecaa359a399ee2c98303abd7457716ad4"
+    },
+    "spring_launch_stored_energy_excess_00000098/overlay-119.png": {
+      "bytes": 152642,
+      "sha256": "dc682237d68c55dd7a8f903ada37d51e83719b706719ad6445948fed613eea73"
+    },
+    "spring_launch_stored_energy_excess_00000098/renderer-runtime.json": {
+      "bytes": 985,
+      "sha256": "954809bdde9f0a92a6fa9865dc9e02e09d62aea994f1c2d80b3d108971ed3912"
+    },
+    "spring_launch_stored_energy_excess_00000098/true/prompt.txt": {
+      "bytes": 370,
+      "sha256": "bee307728bdded01d1bd0794b335e062866053c3f1021990c8d4e836cd3b2ae6"
+    },
+    "spring_launch_stored_energy_excess_00000098/true/trajectory.npz": {
+      "bytes": 2139,
+      "sha256": "bb60ae72b144d205a39398f5436fa0739bb972ad92ff54e1fe7b868476563fa7"
+    },
+    "spring_launch_stored_energy_excess_00000098/true/video.mp4": {
+      "bytes": 18821847,
+      "sha256": "37b07cbfc49d98c8a55f4778e6a28217a2a4c52b88753eeda4058d8f71d4ca5d"
+    },
+    "spring_launch_stored_energy_excess_00000098/true/video_browser.mp4": {
+      "bytes": 1431063,
+      "sha256": "05d20ae49cdda6c67d4443c721e9844ff2f855c5d9fdf549661e7acb4fc841bd"
+    },
+    "spring_launch_stored_energy_excess_00000098/true-000.png": {
+      "bytes": 128967,
+      "sha256": "494b9ef7b01b98c0ce8dc4705e5a78c0956c60a82f361df95b22f7aed9109386"
+    },
+    "spring_launch_stored_energy_excess_00000098/true-040.png": {
+      "bytes": 154026,
+      "sha256": "b3738ff0c7ce0f8ee39e6626f8d4e11286d9faa84a384993e03c0cf075a74820"
+    },
+    "spring_launch_stored_energy_excess_00000098/true-043.png": {
+      "bytes": 155582,
+      "sha256": "1ecf74ec36eba003d79d686b161757ab5dd42f304ef9bad25f1d215ae0457537"
+    },
+    "spring_launch_stored_energy_excess_00000098/true-090.png": {
+      "bytes": 153173,
+      "sha256": "303ba199af499dc2c6a3a1b9d6c4cf1ecaa359a399ee2c98303abd7457716ad4"
+    },
+    "spring_launch_stored_energy_excess_00000098/true-119.png": {
+      "bytes": 152642,
+      "sha256": "dc682237d68c55dd7a8f903ada37d51e83719b706719ad6445948fed613eea73"
+    }
+  }
+}

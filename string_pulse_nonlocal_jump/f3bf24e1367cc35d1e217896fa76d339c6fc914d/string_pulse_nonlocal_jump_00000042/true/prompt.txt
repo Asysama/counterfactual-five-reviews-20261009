@@ -1,0 +1,1 @@
+A localized transverse wave packet with three crests and intervening troughs moves to the right along an intact elastic string anchored at both ends. The pulse passes continuously through each intervening part of the string and remains visible before reaching the far anchor.

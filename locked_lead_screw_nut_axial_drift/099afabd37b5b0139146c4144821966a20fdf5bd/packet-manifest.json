@@ -1,0 +1,335 @@
+{
+  "generator_name": "locked_lead_screw_nut_axial_drift",
+  "head_sha": "099afabd37b5b0139146c4144821966a20fdf5bd",
+  "pr_url": "https://github.com/hipo-dev/counterfactual-data/pull/625",
+  "files": {
+    "accepted.jsonl": {
+      "bytes": 314,
+      "sha256": "2b0776994de9e31d88476290ca4a9f17099cb1795d1e626a9fb66924e8b2d8a6"
+    },
+    "expected-case-ids.json": {
+      "bytes": 99,
+      "sha256": "d2fa499f4b9f66f86a69d1056d01f705f2cb3e37e56053cf4376b780f90d6170"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/browser-derivatives.json": {
+      "bytes": 673,
+      "sha256": "bb3fbd698ffd169cddee63f285096632b3dfcffe319867f8cc6ca31dd5c551b0"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/counterfactual-000.png": {
+      "bytes": 192519,
+      "sha256": "bca088fdd15bb4a7310a3017d27a630fe32eb466b56374d1517811168869257a"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/counterfactual-032.png": {
+      "bytes": 195733,
+      "sha256": "6667aa6701525f9fd49aa20bb0085d2b69953f0b54b991ce387069e44ec6a834"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/counterfactual-035.png": {
+      "bytes": 195471,
+      "sha256": "59e8229d83ddda11ff51212145c8b00f61446170643c30f4647a6ef422b92596"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/counterfactual-090.png": {
+      "bytes": 194630,
+      "sha256": "d4fb5b2f0b6c0a5dc2fc9ba2a600ccfb8d3b47d423783e9f5ee57fb45e3ef55c"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/counterfactual-119.png": {
+      "bytes": 197006,
+      "sha256": "172965f92a0fd59359fa9ef6a855f12b3451611baef9ce00a45765a7b9e1932a"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/counterfactual_locked_helical_coupling_axial_drift/mask.mp4": {
+      "bytes": 2192018,
+      "sha256": "0b15b02685096807ab482bcf1916d90d1495246e695f6ef432c244cc57143531"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/counterfactual_locked_helical_coupling_axial_drift/mask_browser.mp4": {
+      "bytes": 143427,
+      "sha256": "36c49aca7794f3105c467b2996229ce09bae0544f73004cbd504d19e832624b6"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/counterfactual_locked_helical_coupling_axial_drift/mask_overlay.mp4": {
+      "bytes": 23639789,
+      "sha256": "af89ef53fb0e302f9aac9d31bf123e8b812ee6684a59eadec8b2a983344763f2"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/counterfactual_locked_helical_coupling_axial_drift/mask_overlay_browser.mp4": {
+      "bytes": 1621405,
+      "sha256": "6401add4a62d00419e415f3a9ecade925d3369453c5d7b4dbf15c33be1daf228"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/counterfactual_locked_helical_coupling_axial_drift/prompt.txt": {
+      "bytes": 349,
+      "sha256": "abd7371e40acc5bac2710281f138a67580d3844c08a80e2c578a1c830c160715"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/counterfactual_locked_helical_coupling_axial_drift/trajectory.npz": {
+      "bytes": 2327,
+      "sha256": "f88e7c7fbf9bc9749bdc4d48294b31a211bde9b8b2ef727db1eb8b9cb99226fc"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/counterfactual_locked_helical_coupling_axial_drift/video.mp4": {
+      "bytes": 25583868,
+      "sha256": "4e547dc6375028c2b4aa09bb24c88c1e709ad85baee0d18a1f753ee724e74859"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/counterfactual_locked_helical_coupling_axial_drift/video_browser.mp4": {
+      "bytes": 1619694,
+      "sha256": "1ff93330011847d7b491e86941fe921ba045370f1257c76fcd8a056e8920c7c4"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/decoded-audit.json": {
+      "bytes": 979,
+      "sha256": "523b5ca43e59cb0c83a5754b4aec32ecb01d79feb668c4766dd63711a3a7de70"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "d70c6ba8c2d1626923b900570b1d32987d1128777b2c8e04bb0ae2c00cda7e3b"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/manifest.json": {
+      "bytes": 5231,
+      "sha256": "a1102076ce8dc6e396d85e5ffdbdedb3d0315ce711f23a82dee7e044bfecc049"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/mask-032.png": {
+      "bytes": 13450,
+      "sha256": "c4d5ff412497d5d8730bfb88388ddef734d09ee761b834939b943c09a1edda04"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/mask-035.png": {
+      "bytes": 13436,
+      "sha256": "a509447ad1c297afbf24add5568529688c196e54047a608db1c44c155072bdd9"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/mask-090.png": {
+      "bytes": 13485,
+      "sha256": "e558c41a5aece592dbcbf4fbff62ad567f1e627688ccf0b899d08239534fe458"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/mask-119.png": {
+      "bytes": 13503,
+      "sha256": "c99397c46e635dac66b33b1420e9eb77963c6554eb16147d4b75b9ae8df17cd4"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/metadata.json": {
+      "bytes": 5293,
+      "sha256": "052b07d21d29fb7cd21f245d42cf07c70ba5132e930a8e17cf8fbb770dc81641"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/overlay-000.png": {
+      "bytes": 192519,
+      "sha256": "bca088fdd15bb4a7310a3017d27a630fe32eb466b56374d1517811168869257a"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/overlay-032.png": {
+      "bytes": 176800,
+      "sha256": "9f4fc941ccb75845a13e8b453906ffd87283e9cda19ce4100ec2b0d7e7087070"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/overlay-035.png": {
+      "bytes": 176602,
+      "sha256": "3b0edde9d16b4cb53a0748b55d78c8faccd0950b911a73b34f3568b2ee48c3a3"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/overlay-090.png": {
+      "bytes": 174622,
+      "sha256": "4f640887647b2699dae6ff491a6c1b2581292517f6ccd8dbff5d53b9d886c8d4"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/overlay-119.png": {
+      "bytes": 177307,
+      "sha256": "bd99fb190a9264a4c6d1dae8ac0e7d07e21af969563cf0e40dee923d0ea4a09b"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/renderer-runtime.json": {
+      "bytes": 985,
+      "sha256": "954809bdde9f0a92a6fa9865dc9e02e09d62aea994f1c2d80b3d108971ed3912"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/true/prompt.txt": {
+      "bytes": 270,
+      "sha256": "8ef6d642e0cb19937234301c4e0a43de6f8faf081e166d8eb5bf3995ecb054aa"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/true/trajectory.npz": {
+      "bytes": 1933,
+      "sha256": "e76a404281efcd867a0fb482faf3ddddda0667541b28dc685bd03f9224807871"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/true/video.mp4": {
+      "bytes": 25581499,
+      "sha256": "b005efcf60a696bdd94ea5208324260113817b6f0b925a7d8979935dd5008e8d"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/true/video_browser.mp4": {
+      "bytes": 1625018,
+      "sha256": "f9a647f218fe0bbe0067a68291e2720edcea060c21b63238e4d73913b8176d86"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/true-000.png": {
+      "bytes": 192519,
+      "sha256": "bca088fdd15bb4a7310a3017d27a630fe32eb466b56374d1517811168869257a"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/true-032.png": {
+      "bytes": 195904,
+      "sha256": "96c1633a233a7325ee5ea0fa8a3fb55b00fea8f6a22259cce7242a0f30831db2"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/true-035.png": {
+      "bytes": 195728,
+      "sha256": "cf41f5954e61a153b9da2e375f51b95e1c2e00648abcac3f89934f8fb558ff96"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/true-090.png": {
+      "bytes": 194066,
+      "sha256": "210208617ee97e08a795023d2cfaa53f9c93441d2d6dc21e588cab2da8301098"
+    },
+    "locked_lead_screw_nut_axial_drift_00000042/true-119.png": {
+      "bytes": 196239,
+      "sha256": "2aaaf4c7288b4122d5334e3d20b069052c22aa3a963fa7ad63b42ec95e14c3df"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/browser-derivatives.json": {
+      "bytes": 673,
+      "sha256": "aab644f348562a2da6d564b046661594d2e770dbd92b071d3bab8c8142c6654a"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/counterfactual-000.png": {
+      "bytes": 223623,
+      "sha256": "d364f3f457d6dc4b4b669ae944156a503f05b1aee4110f804d4f6efd1cd31592"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/counterfactual-036.png": {
+      "bytes": 215233,
+      "sha256": "4bdca63f0d009f74d1a70d392ee95cb7ed88d32fcc74aefbbc468164cd1c9955"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/counterfactual-038.png": {
+      "bytes": 214694,
+      "sha256": "b66b5d61586f25f21170e3a66c4bf6b6ecb67a33d6584cd535a39cf5d3e5c405"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/counterfactual-090.png": {
+      "bytes": 218212,
+      "sha256": "ede3b16406baf716058ecf9445f7890b6a8404965d75ba3941dd75e91832c75d"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/counterfactual-119.png": {
+      "bytes": 214655,
+      "sha256": "257ee5f2e04172349b717d037635bfc77f47b5fa508a756781497ab75a50bc1e"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/counterfactual_locked_helical_coupling_axial_drift/mask.mp4": {
+      "bytes": 2130596,
+      "sha256": "9e82d6633885ae2c2044c10878ecf8bc9f39a138b1a112c1aba84355cf13480b"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/counterfactual_locked_helical_coupling_axial_drift/mask_browser.mp4": {
+      "bytes": 135658,
+      "sha256": "fe1228f8d7148a71b3c2bb18dc8a23caad0302acdbada79382874b8c0fd17dfb"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/counterfactual_locked_helical_coupling_axial_drift/mask_overlay.mp4": {
+      "bytes": 25607348,
+      "sha256": "7c7b232f4c11e8cfb49d2786d9a0d1f8b057a26583c41e326353cd4e41f0b708"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/counterfactual_locked_helical_coupling_axial_drift/mask_overlay_browser.mp4": {
+      "bytes": 1779502,
+      "sha256": "69266f3d694b1c609778bc36e111ca0701067ffcd595a462ba9a4b2002f66703"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/counterfactual_locked_helical_coupling_axial_drift/prompt.txt": {
+      "bytes": 349,
+      "sha256": "abd7371e40acc5bac2710281f138a67580d3844c08a80e2c578a1c830c160715"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/counterfactual_locked_helical_coupling_axial_drift/trajectory.npz": {
+      "bytes": 2383,
+      "sha256": "d31ffff0cd497d7575676f1036931926699ce20032ae10af68d9c12cceaf362c"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/counterfactual_locked_helical_coupling_axial_drift/video.mp4": {
+      "bytes": 27322079,
+      "sha256": "315f68b3f4c54717927f0b679c686091161ab7ddf121c732839846bbc7c3337a"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/counterfactual_locked_helical_coupling_axial_drift/video_browser.mp4": {
+      "bytes": 1790224,
+      "sha256": "23c417963eb2226a4035b4286bab52ba45d4d43cee11ffb6fe02602c71ac84ad"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/decoded-audit.json": {
+      "bytes": 979,
+      "sha256": "5d162bfb79d24adf37d93ae767de5c977accb30de56f58014d8b9d42e47c7b8a"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "37d5e89f8afdb2cb9d80fddea8b5651260c20433e1e8dc5f792e4c7c3ec0cf3e"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/manifest.json": {
+      "bytes": 5231,
+      "sha256": "8e9592c67c81db797ba44bd791276568bcf6ca411245f63f69f437c57b835aff"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/mask-036.png": {
+      "bytes": 13577,
+      "sha256": "94df8a1fb6113ec46a399e6d7f893e103fe5e34911ca378b1ae97a5a77b6b7b0"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/mask-038.png": {
+      "bytes": 13577,
+      "sha256": "c041b50d74452b782e0971ca87e4f8b6442e397d1a5d322c1c9039352d89788a"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/mask-090.png": {
+      "bytes": 13453,
+      "sha256": "e21038f3995ca0cee13a0b3c133709b59d9d83b9e13622e5a0e60d94997f8442"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/mask-119.png": {
+      "bytes": 13433,
+      "sha256": "c3c0ebc7dc917c9090a3c837f15354920ed6d94fdfabab00c0ab0a2df273e61c"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/metadata.json": {
+      "bytes": 5257,
+      "sha256": "6482a7fd1bcaf2a1a4e5d2a17ed869fb6e7036e6f1df7bbf6588ea548ac5ffd8"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/overlay-000.png": {
+      "bytes": 223623,
+      "sha256": "d364f3f457d6dc4b4b669ae944156a503f05b1aee4110f804d4f6efd1cd31592"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/overlay-036.png": {
+      "bytes": 195765,
+      "sha256": "ef5e0ce8c071a3d268a22f23e860b93f7cfdc74d2735f565569bd40a12e9a83d"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/overlay-038.png": {
+      "bytes": 195393,
+      "sha256": "3712fd31839046a406c7451c17727321fc11db9db81e2f3fd20b760cbf6dd5c1"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/overlay-090.png": {
+      "bytes": 198240,
+      "sha256": "3efe3ebcb1eb253469daa32d5822f75ad02e46c5712413af3940e52ad25b9b43"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/overlay-119.png": {
+      "bytes": 195208,
+      "sha256": "0c06354271820c628fe30ed4f788ce10875ebf4bc7a5f1b856bf821b1a967801"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/renderer-runtime.json": {
+      "bytes": 985,
+      "sha256": "954809bdde9f0a92a6fa9865dc9e02e09d62aea994f1c2d80b3d108971ed3912"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/true/prompt.txt": {
+      "bytes": 270,
+      "sha256": "8ef6d642e0cb19937234301c4e0a43de6f8faf081e166d8eb5bf3995ecb054aa"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/true/trajectory.npz": {
+      "bytes": 1990,
+      "sha256": "8de3d481f6dcd84a0ac16c9581d898e1aba4976a984b76523ea01f43377f4326"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/true/video.mp4": {
+      "bytes": 27379735,
+      "sha256": "890533dd3f6858c7ab57e7a17c2d0254eddb4ee19e774b3ecdd93780aed02217"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/true/video_browser.mp4": {
+      "bytes": 1807249,
+      "sha256": "17857942cd3b96a81dea6e0c5a4b4d1032b46f48f54f2f0b0e3d6c60f5281564"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/true-000.png": {
+      "bytes": 223623,
+      "sha256": "d364f3f457d6dc4b4b669ae944156a503f05b1aee4110f804d4f6efd1cd31592"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/true-036.png": {
+      "bytes": 215175,
+      "sha256": "07264a454e83144cb19dea91a45206fba3ef75a711b9949322e76208a4e9361b"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/true-038.png": {
+      "bytes": 214576,
+      "sha256": "4a965bb94449672e534312cf3576293c3f7dffc792054debdf635a396c80850e"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/true-090.png": {
+      "bytes": 218609,
+      "sha256": "f2b891c8cf6f62a3f639f13e2adaa37cc9d8378d1de58e44d3dc60fe098c063c"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098/true-119.png": {
+      "bytes": 215229,
+      "sha256": "c9b522c51b4bfbfc90f28a3c0ea262daba7573c9e6ac7f3136cd1c72a3c38628"
+    },
+    "production-header.json": {
+      "bytes": 2130,
+      "sha256": "e6c1fdcd6034544043b8314266d3a8028b702677f4c3b37671a0d4cc45b2e48d"
+    },
+    "review.html": {
+      "bytes": 10532,
+      "sha256": "0d086b184812552872111f857c557b72e2711ce56a2afaf215c7f0cf5f61427f"
+    },
+    "runtime-witness-index.json": {
+      "bytes": 1180,
+      "sha256": "0e58973fce63b3a934e7d68b814452e928c7b6d219546ee60fc0c1a36490c328"
+    },
+    "runtime-witness.json": {
+      "bytes": 16660,
+      "sha256": "3b36a731700c3e26fe9eae9d1c402403dc9c641883b94c015094c774b402c95e"
+    }
+  }
+}

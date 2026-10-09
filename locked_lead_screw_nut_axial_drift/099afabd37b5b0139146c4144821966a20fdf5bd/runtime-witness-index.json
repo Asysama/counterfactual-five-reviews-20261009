@@ -1,0 +1,28 @@
+{
+  "schema_version": "counterfactual-runtime-witness-index-v1",
+  "pass": true,
+  "witness_count": 1,
+  "case_count": 2,
+  "witnesses": {
+    "3b36a731700c3e26fe9eae9d1c402403dc9c641883b94c015094c774b402c95e": {
+      "path": "runtime-witness.json",
+      "sha256": "3b36a731700c3e26fe9eae9d1c402403dc9c641883b94c015094c774b402c95e",
+      "generator": "locked_lead_screw_nut_axial_drift",
+      "case_set": "seeds42,98",
+      "source_commit": "099afabd37b5b0139146c4144821966a20fdf5bd"
+    }
+  },
+  "cases": {
+    "locked_lead_screw_nut_axial_drift_00000042": {
+      "witness_id": "3b36a731700c3e26fe9eae9d1c402403dc9c641883b94c015094c774b402c95e",
+      "metadata_path": "locked_lead_screw_nut_axial_drift_00000042/metadata.json",
+      "metadata_sha256": "052b07d21d29fb7cd21f245d42cf07c70ba5132e930a8e17cf8fbb770dc81641"
+    },
+    "locked_lead_screw_nut_axial_drift_00000098": {
+      "witness_id": "3b36a731700c3e26fe9eae9d1c402403dc9c641883b94c015094c774b402c95e",
+      "metadata_path": "locked_lead_screw_nut_axial_drift_00000098/metadata.json",
+      "metadata_sha256": "6482a7fd1bcaf2a1a4e5d2a17ed869fb6e7036e6f1df7bbf6588ea548ac5ffd8"
+    }
+  },
+  "failures": []
+}

@@ -1,0 +1,1 @@
+A localized transverse wave packet with three crests and intervening troughs moves to the right along an intact elastic string anchored at both ends. The whole wave packet suddenly jumps to a farther section without crossing the intervening span; there is still only one wave packet, and it then continues moving right at its original speed.
