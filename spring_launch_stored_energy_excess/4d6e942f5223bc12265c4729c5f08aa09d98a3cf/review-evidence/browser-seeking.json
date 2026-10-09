@@ -1,0 +1,79 @@
+{
+  "generator_name": "spring_launch_stored_energy_excess",
+  "head_sha": "4d6e942f5223bc12265c4729c5f08aa09d98a3cf",
+  "streams": [
+    {
+      "error": null,
+      "expected_time": 1.6666666666666667,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/spring_launch_stored_energy_excess/4d6e942f5223bc12265c4729c5f08aa09d98a3cf/spring_launch_stored_energy_excess_00000042/true/video_browser.mp4",
+      "time": 1.666666
+    },
+    {
+      "error": null,
+      "expected_time": 1.6666666666666667,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/spring_launch_stored_energy_excess/4d6e942f5223bc12265c4729c5f08aa09d98a3cf/spring_launch_stored_energy_excess_00000042/counterfactual_separation_velocity_energy_injection/video_browser.mp4",
+      "time": 1.666666
+    },
+    {
+      "error": null,
+      "expected_time": 1.6666666666666667,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/spring_launch_stored_energy_excess/4d6e942f5223bc12265c4729c5f08aa09d98a3cf/spring_launch_stored_energy_excess_00000042/counterfactual_separation_velocity_energy_injection/mask_browser.mp4",
+      "time": 1.666666
+    },
+    {
+      "error": null,
+      "expected_time": 1.6666666666666667,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/spring_launch_stored_energy_excess/4d6e942f5223bc12265c4729c5f08aa09d98a3cf/spring_launch_stored_energy_excess_00000042/counterfactual_separation_velocity_energy_injection/mask_overlay_browser.mp4",
+      "time": 1.666666
+    },
+    {
+      "error": null,
+      "expected_time": 1.7916666666666667,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/spring_launch_stored_energy_excess/4d6e942f5223bc12265c4729c5f08aa09d98a3cf/spring_launch_stored_energy_excess_00000098/true/video_browser.mp4",
+      "time": 1.791666
+    },
+    {
+      "error": null,
+      "expected_time": 1.7916666666666667,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/spring_launch_stored_energy_excess/4d6e942f5223bc12265c4729c5f08aa09d98a3cf/spring_launch_stored_energy_excess_00000098/counterfactual_separation_velocity_energy_injection/video_browser.mp4",
+      "time": 1.791666
+    },
+    {
+      "error": null,
+      "expected_time": 1.7916666666666667,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/spring_launch_stored_energy_excess/4d6e942f5223bc12265c4729c5f08aa09d98a3cf/spring_launch_stored_energy_excess_00000098/counterfactual_separation_velocity_energy_injection/mask_browser.mp4",
+      "time": 1.791666
+    },
+    {
+      "error": null,
+      "expected_time": 1.7916666666666667,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/spring_launch_stored_energy_excess/4d6e942f5223bc12265c4729c5f08aa09d98a3cf/spring_launch_stored_energy_excess_00000098/counterfactual_separation_velocity_energy_injection/mask_overlay_browser.mp4",
+      "time": 1.791666
+    }
+  ],
+  "note": "Seek verified through exact currentTime, paused=true, readyState>=2, error=null and actual displayed-frame screenshot; the DOM bridge did not expose seeking, retained as null."
+}

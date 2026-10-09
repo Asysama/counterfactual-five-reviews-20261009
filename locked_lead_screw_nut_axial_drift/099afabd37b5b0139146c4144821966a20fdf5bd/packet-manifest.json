@@ -319,9 +319,161 @@
       "bytes": 2130,
       "sha256": "e6c1fdcd6034544043b8314266d3a8028b702677f4c3b37671a0d4cc45b2e48d"
     },
+    "review-evidence/actual-browser-playback.json": {
+      "bytes": 3489,
+      "sha256": "84af3291107173c6d04e477c66f0b572aa5bf1f0eea6f4c440fcecd86ee05fc6"
+    },
+    "review-evidence/axis-probes/axis-probes.json": {
+      "bytes": 7531,
+      "sha256": "3cbf1d01f96784faea8c0797764d587b2e0a60ae771f1b92b541baf35cea7dac"
+    },
+    "review-evidence/axis-probes/baseline-counterfactual-35.png": {
+      "bytes": 36101,
+      "sha256": "224998c7f6d48fe312bf150883a5091242d27f037f78d9d7cb4c1638a4a396ea"
+    },
+    "review-evidence/axis-probes/baseline-counterfactual-90.png": {
+      "bytes": 36137,
+      "sha256": "7b7b816487fedb5254817af5926bc07368b6f64023e15e0a5bcf7c1f61ef717d"
+    },
+    "review-evidence/axis-probes/baseline-true-35.png": {
+      "bytes": 36265,
+      "sha256": "d2b2afb6e61ba4e845b37a4c38efe0efa0a2d3e96d164cb6af5656d2ed19cc38"
+    },
+    "review-evidence/axis-probes/baseline-true-90.png": {
+      "bytes": 36265,
+      "sha256": "b5f1e9e531fcd27406b25ddf73b2d5386892263e22c01593c0cd37fc9ce3eea2"
+    },
+    "review-evidence/axis-probes/length_high-counterfactual-35.png": {
+      "bytes": 35752,
+      "sha256": "c0fe0ed5f7188489b24dcee99a11b305a26fd16d34a20c02c388789495afc279"
+    },
+    "review-evidence/axis-probes/length_high-counterfactual-90.png": {
+      "bytes": 35836,
+      "sha256": "8589784221542aff0c3d0f7900a2df3f1447f06f490ded3b2fc37f177586f8dc"
+    },
+    "review-evidence/axis-probes/length_high-true-35.png": {
+      "bytes": 35741,
+      "sha256": "e69af0c5ddf7e3ca6f47db56fe3abf3c3c68a10b0d93af3ab39dd8c26d564585"
+    },
+    "review-evidence/axis-probes/length_high-true-90.png": {
+      "bytes": 35741,
+      "sha256": "e69af0c5ddf7e3ca6f47db56fe3abf3c3c68a10b0d93af3ab39dd8c26d564585"
+    },
+    "review-evidence/axis-probes/length_low-counterfactual-35.png": {
+      "bytes": 38908,
+      "sha256": "55a41ecf1d95a7b44df5e62a4a51476d06d8d194eb4fcff2ad035ff41606aa6c"
+    },
+    "review-evidence/axis-probes/length_low-counterfactual-90.png": {
+      "bytes": 39091,
+      "sha256": "43dd1a85e8989c65a4b611865dc9e74bbdb0298e6116a234b40b3452fa2cb263"
+    },
+    "review-evidence/axis-probes/length_low-true-35.png": {
+      "bytes": 39037,
+      "sha256": "3e51ae3fb1b520e2b84382d95ddbb048baa8237e6d084d48c3d298806955672e"
+    },
+    "review-evidence/axis-probes/length_low-true-90.png": {
+      "bytes": 39037,
+      "sha256": "3e51ae3fb1b520e2b84382d95ddbb048baa8237e6d084d48c3d298806955672e"
+    },
+    "review-evidence/axis-probes/onset_high-counterfactual-35.png": {
+      "bytes": 36043,
+      "sha256": "c8e7ffdb9f3d18b9821073300de3f51f532122bd0d4938a3449581016e2e6ea5"
+    },
+    "review-evidence/axis-probes/onset_high-counterfactual-90.png": {
+      "bytes": 36112,
+      "sha256": "02702deaa94d53e088baf9afa337a1bf5f87be4371cee9536ed12aae3dc3a8dc"
+    },
+    "review-evidence/axis-probes/onset_high-true-35.png": {
+      "bytes": 36043,
+      "sha256": "c8e7ffdb9f3d18b9821073300de3f51f532122bd0d4938a3449581016e2e6ea5"
+    },
+    "review-evidence/axis-probes/onset_high-true-90.png": {
+      "bytes": 36047,
+      "sha256": "bd18921a9a4d168e6af0fec5b638d25fff107dd6c092673f14d7a177a7c6e7de"
+    },
+    "review-evidence/axis-probes/onset_low-counterfactual-35.png": {
+      "bytes": 36115,
+      "sha256": "b0b11b1594eb112f34ca26c000b54079ddba6f751977a18d7df312f9d1af533e"
+    },
+    "review-evidence/axis-probes/onset_low-counterfactual-90.png": {
+      "bytes": 36192,
+      "sha256": "57702dcd997922a50a72e68e475637470304f0ab7d60928e7043eded1b545ec9"
+    },
+    "review-evidence/axis-probes/onset_low-true-35.png": {
+      "bytes": 36113,
+      "sha256": "fac1365bd676a940e3244d4dab5f24208e41b8a842c1e78c6f625942b421783a"
+    },
+    "review-evidence/axis-probes/onset_low-true-90.png": {
+      "bytes": 36113,
+      "sha256": "fac1365bd676a940e3244d4dab5f24208e41b8a842c1e78c6f625942b421783a"
+    },
+    "review-evidence/axis-probes/response_high-counterfactual-35.png": {
+      "bytes": 35951,
+      "sha256": "32d50a62ff7477780770a62bfd0f07d4655335107a18cdd3588d6981dee137b1"
+    },
+    "review-evidence/axis-probes/response_high-counterfactual-90.png": {
+      "bytes": 36021,
+      "sha256": "53865e5de1a34d96e1c56e6a49e09dd6b2745192aee0aa3868fae243b8a6d9f9"
+    },
+    "review-evidence/axis-probes/response_high-true-35.png": {
+      "bytes": 35855,
+      "sha256": "b313ddb93697ffa33bda2a2c8ec011b030fe5723e5fe2b583d4340ca6dd489a2"
+    },
+    "review-evidence/axis-probes/response_high-true-90.png": {
+      "bytes": 35855,
+      "sha256": "b313ddb93697ffa33bda2a2c8ec011b030fe5723e5fe2b583d4340ca6dd489a2"
+    },
+    "review-evidence/axis-probes/response_low-counterfactual-35.png": {
+      "bytes": 36311,
+      "sha256": "7e9d00fc34639389f2e22584aac8e2c1fc5e89d09d7e4d52b601c3a5570ead2d"
+    },
+    "review-evidence/axis-probes/response_low-counterfactual-90.png": {
+      "bytes": 36360,
+      "sha256": "e493142660147981fea5625207509ba4276944be795bef3b81e4f7f32fcb0974"
+    },
+    "review-evidence/axis-probes/response_low-true-35.png": {
+      "bytes": 36379,
+      "sha256": "ffe45c742fc025cedcf0e1f36553a1cc37c14de70262b5053bb5f3627ebc4d7b"
+    },
+    "review-evidence/axis-probes/response_low-true-90.png": {
+      "bytes": 36379,
+      "sha256": "ffe45c742fc025cedcf0e1f36553a1cc37c14de70262b5053bb5f3627ebc4d7b"
+    },
+    "review-evidence/browser-seeking.json": {
+      "bytes": 3717,
+      "sha256": "9e9e11020b974787a29ffc6786fdfee2faaa99abe4d3eb76d38009356e12cda9"
+    },
+    "review-evidence/exact-head-resume.log": {
+      "bytes": 610,
+      "sha256": "df6814d6ca3026a083bf38bd917dc5cf8c25ba44a317d34d5f98d66ab96e05f6"
+    },
+    "review-evidence/independent-decoded-physical.json": {
+      "bytes": 1291,
+      "sha256": "5272de5ff10c3c71fd41def7dac532c626ff83c989ed98ddb533e42f966fee03"
+    },
+    "review-evidence/locked_lead_screw_nut_axial_drift-runtime-audit.json": {
+      "bytes": 288,
+      "sha256": "7a8a29c575569b31b799e6629ce130ee02ddd8aff1c6103edabd05cbb2578d46"
+    },
+    "review-evidence/locked_lead_screw_nut_axial_drift-scale.json": {
+      "bytes": 746,
+      "sha256": "231ac9860ea1b717a149941311273e8ed39458f75a3a82df573c2272ec3cc66a"
+    },
+    "review-evidence/locked_lead_screw_nut_axial_drift-tests.log": {
+      "bytes": 98,
+      "sha256": "0a97b591ab7ce9644866a9aea8e19c37ff6647585418c546d0481e0cb92bfbc7"
+    },
+    "review-evidence/visual-inspection.json": {
+      "bytes": 2369,
+      "sha256": "af62540fa92ea83fb674e0197fdf9df5389b034209e6c2710cebffcc06113d13"
+    },
+    "review-report.md": {
+      "bytes": 10839,
+      "sha256": "ece839f32d9504b41dc000dbc6e35c982b8fb6cda5fe4d25d8f5bcd28eb7ff47"
+    },
     "review.html": {
-      "bytes": 10532,
-      "sha256": "0d086b184812552872111f857c557b72e2711ce56a2afaf215c7f0cf5f61427f"
+      "bytes": 10891,
+      "sha256": "4d1b8dbb1096d5f2d1c4eb0fcbaa9be5b4c7c9d9792d39fc4b5b0f5f9100b133"
     },
     "runtime-witness-index.json": {
       "bytes": 1180,

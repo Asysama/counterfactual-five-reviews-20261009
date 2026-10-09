@@ -1,0 +1,43 @@
+{
+  "generator_name": "locked_lead_screw_nut_axial_drift",
+  "head_sha": "099afabd37b5b0139146c4144821966a20fdf5bd",
+  "status": "PASS",
+  "native_frames_inspected": true,
+  "full_clip_montages_inspected": true,
+  "inspection_note": "Both seeds: ordinary pre-lock advance visible along continuous screw and guide. Cutaway exposes threads; handwheel and carriage remain attached. Shaft stops at pawl; True stops, CF alone continues axial motion.",
+  "full_clip_sampling": "Frames 0,6,...,114 from both True/CF streams for both seeds; actual browser playback reviewed separately.",
+  "artifacts": [
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/locked_lead_screw_nut_axial_drift_00000042-counterfactual.png",
+      "sha256": "fc2a04b8dbc4a86ece6a4233caf49ee0b1287cb77511b917d2643ccf81d9e671"
+    },
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/locked_lead_screw_nut_axial_drift_00000042-true.png",
+      "sha256": "e8df2281456a5c3fa5a46c8e7874c4c67caca4b826e674b60a2a6480e9fc966d"
+    },
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/locked_lead_screw_nut_axial_drift_00000098-counterfactual.png",
+      "sha256": "55d96f466141bdbec3034868997c2147828cba3e0e1688e7df3cdde719d325f5"
+    },
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/locked_lead_screw_nut_axial_drift_00000098-true.png",
+      "sha256": "49bfc5a381d5c7f2e61e4cc24d3888c8c1831e6fad58c6bc0cccb00e1e6d7811"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/locked_lead_screw_nut_axial_drift_00000042-counterfactual-evidence.png",
+      "sha256": "f7bd04923a70ddeec3fbc766e37a9aa009e272690099e2df922e64bf89b6343c"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/locked_lead_screw_nut_axial_drift_00000042-true-evidence.png",
+      "sha256": "c8ada8f22f4d57083f18d3784f6e220922bc7017e91461438c3c8716cf89d717"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/locked_lead_screw_nut_axial_drift_00000098-counterfactual-evidence.png",
+      "sha256": "34030acdbf49806b0fd0724438988cc41c81bbe6f27437513b09cffd553a656d"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/locked_lead_screw_nut_axial_drift_00000098-true-evidence.png",
+      "sha256": "fe1f86f2b07cecd54e66bb5073e11f041e34032d0feb2c80f2eae156fe4da631"
+    }
+  ]
+}

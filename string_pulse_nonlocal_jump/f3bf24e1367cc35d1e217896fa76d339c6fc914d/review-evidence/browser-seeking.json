@@ -1,0 +1,79 @@
+{
+  "generator_name": "string_pulse_nonlocal_jump",
+  "head_sha": "f3bf24e1367cc35d1e217896fa76d339c6fc914d",
+  "streams": [
+    {
+      "error": null,
+      "expected_time": 1.2916666666666667,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/string_pulse_nonlocal_jump/f3bf24e1367cc35d1e217896fa76d339c6fc914d/string_pulse_nonlocal_jump_00000042/true/video_browser.mp4",
+      "time": 1.291666
+    },
+    {
+      "error": null,
+      "expected_time": 1.2916666666666667,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/string_pulse_nonlocal_jump/f3bf24e1367cc35d1e217896fa76d339c6fc914d/string_pulse_nonlocal_jump_00000042/counterfactual_nonlocal_pulse_state_translation/video_browser.mp4",
+      "time": 1.291666
+    },
+    {
+      "error": null,
+      "expected_time": 1.2916666666666667,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/string_pulse_nonlocal_jump/f3bf24e1367cc35d1e217896fa76d339c6fc914d/string_pulse_nonlocal_jump_00000042/counterfactual_nonlocal_pulse_state_translation/mask_browser.mp4",
+      "time": 1.291666
+    },
+    {
+      "error": null,
+      "expected_time": 1.2916666666666667,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/string_pulse_nonlocal_jump/f3bf24e1367cc35d1e217896fa76d339c6fc914d/string_pulse_nonlocal_jump_00000042/counterfactual_nonlocal_pulse_state_translation/mask_overlay_browser.mp4",
+      "time": 1.291666
+    },
+    {
+      "error": null,
+      "expected_time": 1.4583333333333333,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/string_pulse_nonlocal_jump/f3bf24e1367cc35d1e217896fa76d339c6fc914d/string_pulse_nonlocal_jump_00000098/true/video_browser.mp4",
+      "time": 1.458333
+    },
+    {
+      "error": null,
+      "expected_time": 1.4583333333333333,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/string_pulse_nonlocal_jump/f3bf24e1367cc35d1e217896fa76d339c6fc914d/string_pulse_nonlocal_jump_00000098/counterfactual_nonlocal_pulse_state_translation/video_browser.mp4",
+      "time": 1.458333
+    },
+    {
+      "error": null,
+      "expected_time": 1.4583333333333333,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/string_pulse_nonlocal_jump/f3bf24e1367cc35d1e217896fa76d339c6fc914d/string_pulse_nonlocal_jump_00000098/counterfactual_nonlocal_pulse_state_translation/mask_browser.mp4",
+      "time": 1.458333
+    },
+    {
+      "error": null,
+      "expected_time": 1.4583333333333333,
+      "paused": true,
+      "readyState": 4,
+      "seeking": null,
+      "src": "https://asysama.github.io/counterfactual-five-reviews-20261009/string_pulse_nonlocal_jump/f3bf24e1367cc35d1e217896fa76d339c6fc914d/string_pulse_nonlocal_jump_00000098/counterfactual_nonlocal_pulse_state_translation/mask_overlay_browser.mp4",
+      "time": 1.458333
+    }
+  ],
+  "note": "Seek verified through exact currentTime, paused=true, readyState>=2, error=null and actual displayed-frame screenshot; the DOM bridge did not expose seeking, retained as null."
+}

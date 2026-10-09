@@ -1,0 +1,43 @@
+{
+  "generator_name": "cantilever_thickness_deflection_order_reversal",
+  "head_sha": "e3a52f55d32432a44b8bbf6341c7cce5a93073b5",
+  "status": "PASS",
+  "native_frames_inspected": true,
+  "full_clip_montages_inspected": true,
+  "inspection_note": "Both seeds: saddle cheeks and visible bolts wrap beam tips; weights touch saddle caps and follow beam-end tangent. Full sequence retains load connection; True thicker beam bends less; CF bends more.",
+  "full_clip_sampling": "Frames 0,6,...,114 from both True/CF streams for both seeds; actual browser playback reviewed separately.",
+  "artifacts": [
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/cantilever_thickness_deflection_order_reversal_00000042-counterfactual.png",
+      "sha256": "8cc9415e7b1541001dfe2a8892a25d73668d37fe34a5370e7563660da662a0fc"
+    },
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/cantilever_thickness_deflection_order_reversal_00000042-true.png",
+      "sha256": "689bea0d5010238a675cb7e9e3c82772a0de367ea6837fa5eb43a5078b2915fb"
+    },
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/cantilever_thickness_deflection_order_reversal_00000098-counterfactual.png",
+      "sha256": "a19118a98e97222b32bc1dc24c883a3bd995f5a67d43824f9b5c6a4dd3d86251"
+    },
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/cantilever_thickness_deflection_order_reversal_00000098-true.png",
+      "sha256": "df4c217a9e3a58efdecf70b5822a9ff1706a79f176ca5c112d58730014f63d04"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/cantilever_thickness_deflection_order_reversal_00000042-counterfactual-evidence.png",
+      "sha256": "fd5143569f35f2459d3f68db2fa073a35d0a0a41e2a38d39c103ea530fcd67e5"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/cantilever_thickness_deflection_order_reversal_00000042-true-evidence.png",
+      "sha256": "b5759d1b9f7e449436be406d00722370cbd4538b59fbe8dd05b9358d40f27737"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/cantilever_thickness_deflection_order_reversal_00000098-counterfactual-evidence.png",
+      "sha256": "97f2ae20fce68060fb46e805fb4eb6db16c269caff5a65e6c1011d5652070868"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/cantilever_thickness_deflection_order_reversal_00000098-true-evidence.png",
+      "sha256": "e444293353813f210622472f4b70027ce31b484b070cd4d311c8e2811a3186a7"
+    }
+  ]
+}

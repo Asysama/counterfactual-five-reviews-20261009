@@ -1,0 +1,43 @@
+{
+  "generator_name": "tensioned_elastic_rod_lateral_instability",
+  "head_sha": "a895fe09b0be0670989af83cbf2ff2535de52f42",
+  "status": "PASS",
+  "native_frames_inspected": true,
+  "full_clip_montages_inspected": true,
+  "inspection_note": "Both seeds: no floating arrows; outer pistons retract and visible axial springs lengthen. Grips stay attached to rod. True bow decreases, CF bow increases under same tensile loading.",
+  "full_clip_sampling": "Frames 0,6,...,114 from both True/CF streams for both seeds; actual browser playback reviewed separately.",
+  "artifacts": [
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/tensioned_elastic_rod_lateral_instability_00000042-counterfactual.png",
+      "sha256": "31f12c1943a05e1b66d8948af85e9637436b655f27150c8e35627b9681b1f1a5"
+    },
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/tensioned_elastic_rod_lateral_instability_00000042-true.png",
+      "sha256": "e0777b06844ef9d2e59b08e135e806a0f0746cfa3f068c3572e34f12046585a4"
+    },
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/tensioned_elastic_rod_lateral_instability_00000098-counterfactual.png",
+      "sha256": "9b861322973fa07ffcfcb265dea89de7f85e092165313662d3988057a1b6671a"
+    },
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/tensioned_elastic_rod_lateral_instability_00000098-true.png",
+      "sha256": "9adaae800d61b2d618e5c185cdd9c9289f817a11a1db97283ebc778fb3698ca6"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/tensioned_elastic_rod_lateral_instability_00000042-counterfactual-evidence.png",
+      "sha256": "26a2eb86435353cb91673f810a01dc88bc2f70fc7b3393b632627f42c5f30964"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/tensioned_elastic_rod_lateral_instability_00000042-true-evidence.png",
+      "sha256": "dbf4f7691c1b5a9d8c7d305fc30c5b9e850ae8d73b101ee2253675a3c91f9daa"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/tensioned_elastic_rod_lateral_instability_00000098-counterfactual-evidence.png",
+      "sha256": "84b46e46f72561037023a9ce777e2f2677dcc5f92b8d6f439c22ae9b2a59b435"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/tensioned_elastic_rod_lateral_instability_00000098-true-evidence.png",
+      "sha256": "53e69c8940740ce1dcef6720acdcd9938cc5ececcf4b64fc8d6a5beb0946086b"
+    }
+  ]
+}

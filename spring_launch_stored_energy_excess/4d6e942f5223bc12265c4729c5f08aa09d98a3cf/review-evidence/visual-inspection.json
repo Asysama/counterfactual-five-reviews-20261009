@@ -1,0 +1,43 @@
+{
+  "generator_name": "spring_launch_stored_energy_excess",
+  "head_sha": "4d6e942f5223bc12265c4729c5f08aa09d98a3cf",
+  "status": "PASS",
+  "native_frames_inspected": true,
+  "full_clip_montages_inspected": true,
+  "inspection_note": "Both seeds: no text in scene; gauge post and latch mount on expanded base. Crossarm gives fixed ball-center height cue outside flight path. True rises below bound and returns, CF rises above bound and returns.",
+  "full_clip_sampling": "Frames 0,6,...,114 from both True/CF streams for both seeds; actual browser playback reviewed separately.",
+  "artifacts": [
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/spring_launch_stored_energy_excess_00000042-counterfactual.png",
+      "sha256": "bac4feb92361f858e5c5226583a84c8ccf62b4eb41adcd7f9350e5740bc057a1"
+    },
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/spring_launch_stored_energy_excess_00000042-true.png",
+      "sha256": "0e8ccc46115d7059e99002ae60a01c67cc738c29b501d0a0701cc5bcdda42ed0"
+    },
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/spring_launch_stored_energy_excess_00000098-counterfactual.png",
+      "sha256": "b0d6fdd189de844931a428e9598ec8169ec00d476dfb8b560918abd411afee6c"
+    },
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/spring_launch_stored_energy_excess_00000098-true.png",
+      "sha256": "4fe6843948163412355c1fdb207922dd0a6b192eca492fe1c7b8796c86a6850a"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/spring_launch_stored_energy_excess_00000042-counterfactual-evidence.png",
+      "sha256": "211f53a7b77c50bcb155ff00f1ea059afba0fbe362da953f62f3a98c0bc0b410"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/spring_launch_stored_energy_excess_00000042-true-evidence.png",
+      "sha256": "915a7fc4bac71a6270cb9cb8c7f2dfc1bfe8e43ddd53bbd9f7770e7f6c49dd12"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/spring_launch_stored_energy_excess_00000098-counterfactual-evidence.png",
+      "sha256": "e81437e736e6d8db1f695c8b17a2a8248e1fdf3a8592638ff442a46b65d2ce5e"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/spring_launch_stored_energy_excess_00000098-true-evidence.png",
+      "sha256": "b39ce41970a9724bc16983c3ee73dfa526b9b41612238cab174481fc8ef22bdb"
+    }
+  ]
+}

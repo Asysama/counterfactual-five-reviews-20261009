@@ -1,0 +1,43 @@
+{
+  "generator_name": "string_pulse_nonlocal_jump",
+  "head_sha": "f3bf24e1367cc35d1e217896fa76d339c6fc914d",
+  "status": "PASS",
+  "native_frames_inspected": true,
+  "full_clip_montages_inspected": true,
+  "inspection_note": "Both seeds: three rounded crests and intervening troughs on one intact anchored string; one whole-packet jump, no duplicate pulse. Both full clips retain target and normal post-intervention motion.",
+  "full_clip_sampling": "Frames 0,6,...,114 from both True/CF streams for both seeds; actual browser playback reviewed separately.",
+  "artifacts": [
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/string_pulse_nonlocal_jump_00000042-counterfactual.png",
+      "sha256": "313bac1fa001956f09eaa108b1d88c362851de72d10a3b1ac74c44329d221cdd"
+    },
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/string_pulse_nonlocal_jump_00000042-true.png",
+      "sha256": "360a74412a51967f857faba1c246a183ef6c19ea23098550f8840b2a06d0c2c6"
+    },
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/string_pulse_nonlocal_jump_00000098-counterfactual.png",
+      "sha256": "ab305e754fdce6b6cd56a06b84c08662034a223a3fcdb70549f50e394d712fe1"
+    },
+    {
+      "path": "backups/user-v5-final-audits/audits-user-v5/visual-montages/string_pulse_nonlocal_jump_00000098-true.png",
+      "sha256": "aa32e774a6d2a2a988eceec9e0c63edc86ed1331cad0f049f3e0dca14570abb4"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/string_pulse_nonlocal_jump_00000042-counterfactual-evidence.png",
+      "sha256": "a62a61ed2d987f2482d503cbc10888178bc671ad27d00c6817b0d64200a23058"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/string_pulse_nonlocal_jump_00000042-true-evidence.png",
+      "sha256": "ddf816686e031c8fa028ac1698738d5821ca5e7b87bed02cd3871765bc117218"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/string_pulse_nonlocal_jump_00000098-counterfactual-evidence.png",
+      "sha256": "d0619ac11ebc643d243ff9c15c750ad2c118b897d336637b423130fb6a3b165d"
+    },
+    {
+      "path": "audits/2026-10-09_native-user-v5/string_pulse_nonlocal_jump_00000098-true-evidence.png",
+      "sha256": "8143e0dc5e6f4378d025db7addace4caf1028fd846043fc0eb3775229958b2e0"
+    }
+  ]
+}
